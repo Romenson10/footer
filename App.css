@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  background-image: url('./img/fundo.jpeg');
+  justify-content: center;
+  color: white;
+  
+}
+
+footer hr {
+  display:block;
+}
+
+.copiaimg{
+  width: 8em;  
+}
+
+.liro {
+  display: flex;
+}
+
+.lirodape{
+  padding: 1em;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.titulo_azul{
+  color: #0678e2;
+}
+
+.inscrever {
+  padding: 1em;
+  background: #0678e2;
+  margin: 2em;
+  border-color: #0678e2;
+  width: 10em;
+}
+
+hr {
+  color: #0678e2;
+  width: 50em;
+}
+
+.rodape_fundo{
+   background-image: url('./img/fundo.jpeg');
+   text-align: center;
+   align-items: center;
+}
+
+.segundo{
+  display: block;
+  margin: 2em;
+  align-items: start;
+  text-align: start;
+}
+
+.segundo button {
+  margin-left: -0.1em;
+  color: white;
+  border-radius: 1em;
+}
+
+.liro{
+  margin: 2em;
+}
+
+.ultimo {
+  color: white;
+}
+
+.logos{
+  width: 2em;
+  height: 2em;
+  border-radius: 2em;
+  padding: 0.5em;
+}
+
+
+.segundo input {
+  width: 18em;
+  height: 3em;
+  background:#4b4c57;
+  color: white;
+  border-color: #0678e2;
+  
+}
+
+section {
+ height:  30em;
+}
